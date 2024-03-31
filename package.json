@@ -1,0 +1,19 @@
+{
+  "name": "ton-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.11.1",
+    "teslabot": "^1.5.0",
+    "ton-client-node-js": "^0.28.0",
+    "tonweb": "^0.0.66"
+  }
+}
